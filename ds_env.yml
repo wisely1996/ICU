@@ -1,0 +1,13 @@
+name: ds_env
+channels:
+  - anaconda
+  - conda-forge
+dependencies:
+  - pandas=1.5.3
+  - numpy=1.24.2
+  - matplotlib=3.7.0
+  - python=3.11
+  - scikit-learn=1.2.1
+  - notebook
+  - seaborn
+prefix: C:\Users\wisel\anaconda3\envs\ds_env
